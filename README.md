@@ -6,7 +6,7 @@
 ## Current Path
   -  Introduction to Cyber Security
   -  Pre Security
-  -  Database SQL Basics (Current room)
+  -  Database SQL Basics 
 
 ## Skills I'm Learning
 
@@ -30,7 +30,7 @@
 |Operating Systems Introduction| ✅Completed|
 |Linux CLI Basics| ✅Completed|
 |Operating Systems Security| ✅Completed|
-|Database SQL Basics| 🔄In progress|
+|Database SQL Basics| ✅Completed|
  
      
 ## Repository Structure
